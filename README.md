@@ -18,4 +18,4 @@ Java Spring Boot · AWS · improving my English
 
 ### Contact
 - LinkedIn: <[Kai](https://www.linkedin.com/in/khai-tran-263ab9360/)>
-- Portfolio: <[kaitr.dev](https://kaitr.dev/))>
+- Portfolio: <[kaitr.dev](https://kaitr.dev/)>
