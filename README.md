@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Khai 👋
 
-<!--
-**THKhai/THKhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer from Ho Chi Minh City. I built and maintained features on a live multi-tenant ERP / inventory platform (C#, ASP.NET Web API, SQL Server, RabbitMQ).
 
-Here are some ideas to get you started:
+### What I work with
+- **Backend:** C#, ASP.NET Web API, Entity Framework, Python (FastAPI)
+- **Messaging & jobs:** RabbitMQ, MassTransit, Quartz.NET
+- **Data:** SQL Server, PostgreSQL, Redis
+- **Tools:** Docker, Azure DevOps, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured projects
+- [dealership-service-scheduler](https://github.com/THKhai/dealership-service-scheduler): service scheduling backend for car dealerships
+- [AI-assistant](https://github.com/THKhai/AI-assistant): Telegram AI assistant for tracking plans and progress (Python)
+- [MDBMS E-Commerce Platform](https://github.com/THKhai/MDBMS---E-COMMERCE-PLATFORM): e-commerce platform (C#)
+
+### Currently learning
+Java Spring Boot · AWS · improving my English
+
+### Contact
+LinkedIn: <your link>
