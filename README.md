@@ -17,4 +17,5 @@ Backend developer from Ho Chi Minh City. I built and maintained features on a li
 Java Spring Boot · AWS · improving my English
 
 ### Contact
-LinkedIn: <your link>
+LinkedIn: <[your link](https://www.linkedin.com/in/khai-tran-263ab9360/)>
+Portfolio: <[your link](https://kaitr.dev/)/)>
